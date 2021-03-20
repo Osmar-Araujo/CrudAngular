@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": "5.50"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000
+    },
+    {
+      "name": "Notebook Accer Aspire",
+      "price": "3950.50",
+      "id": 4
+    },
+    {
+      "name": "Lápis Básico",
+      "price": "2.50",
+      "id": 5
+    },
+    {
+      "name": "Caderno 200 fls",
+      "price": "20.90",
+      "id": 6
+    },
+    {
+      "name": "Caderno 100 fls",
+      "price": "10.50",
+      "id": 7
+    }
+  ]
+}
